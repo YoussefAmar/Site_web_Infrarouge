@@ -1,0 +1,79 @@
+footer ol
+{
+
+	border: 2px solid;
+
+	border-color:#000d1a;
+
+	border-radius: 15px;
+
+	width: 18%;
+
+}
+
+article,h2
+{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+footer img
+{
+	position: absolute;
+
+	left: 94%;
+
+	top: 390%;
+
+}
+
+td
+{
+	border: 10px solid #262626;
+
+
+}
+
+.green
+{
+	background-color:#009933;
+}
+
+.red
+{
+	background-color: #cc2900;
+
+}
+
+.arrow
+{
+	position: absolute;
+
+	left: 94%;
+
+	top: 560%;
+
+}
+
+.flèche
+{
+	position: absolute;
+
+	left: 94%;
+
+	top: 480%;
+
+}
+
+.verif
+{
+	text-align: center;
+
+	text-decoration: blink;
+
+	font-weight: bold;
+
+	font-style: italic;
+
+	font-size: 300%;
+}

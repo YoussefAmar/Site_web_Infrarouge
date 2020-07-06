@@ -1,0 +1,57 @@
+body ol
+{
+
+	border: 2px solid;
+
+	border-color:#000d1a;
+
+	border-radius: 15px;
+
+	width: 22%;
+
+}
+
+fieldset
+{
+
+width: 60%;
+
+border-color: black;
+
+}
+
+article
+{
+	margin-right: 20%;
+
+}
+
+audio
+{
+	position : absolute;
+
+	top: 20%;
+
+	left: 76%;
+
+
+}
+
+.arrow
+{
+	position: absolute;
+
+	left: 94%;
+
+}
+
+figure
+{
+	position: absolute;
+
+	left: 54%;
+
+	top: 115%;
+
+}
+
